@@ -37,8 +37,8 @@
 <!-- =================== CONTACTOS =================== -->
 <h3 align="center">📬 Contacto</h3>
 <p align="center">
-  <a href="jesuarezqz@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Correo" width="40" height="40"/></a> 
-  <a href="https://linkedin.com/in/edwar-suarez"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="jesuarezqz@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Correo" width="40" height="40"/></a> 
+  <a href="https://linkedin.com/in/edwar-suarez" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
 </p>
 
 ---
