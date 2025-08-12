@@ -46,17 +46,17 @@
 <!-- =================== ESTADÍSTICAS =================== -->
 <h3 align="center">📊 Estadísticas de mi GitHub</h3>
 <p align="center">
-	
   <img src="https://github-readme-stats.vercel.app/api?username=edwarSuarezQ&show_icons=true&theme=radical" 
-       alt="Estadísticas GitHub" width="300" height="150"/>
-  &nbsp;&nbsp;&nbsp;
+       alt="Estadísticas GitHub" width="300" height="150" style="border: 2px solid white; border-radius: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwarSuarezQ&layout=compact&theme=radical" 
-       alt="Lenguajes más usados" width="300" height="150"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=edwarSuarezQ&theme=radical&hide_border=true" 
-       alt="Racha de commits" width="300" height="150"/>
-	   
+       alt="Lenguajes más usados" width="300" height="150" style="border: 2px solid white; border-radius: 10px;"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=edwarSuarezQ&theme=radical&hide_border=true" 
+       alt="Racha de commits" width="615" height="250" style="border: 2px solid white; border-radius: 10px;"/>
+</p>
+
 
 ---
 
