@@ -59,14 +59,14 @@
 <!-- =================== ESTADÍSTICAS =================== -->
 <h3 align="center">📊 Estadísticas de mi GitHub</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edwarSuarezQ&show_icons=true&theme=radical" 
+  <img src="https://github-readme-stats.vercel.app/api?username=EdwarSuarezQ&show_icons=true&theme=radical" 
        alt="Estadísticas GitHub" width="400" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwarSuarezQ&layout=compact&theme=radical" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwarSuarezQ&layout=compact&theme=radical" 
        alt="Lenguajes más usados" width="400" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=edwarSuarezQ&theme=radical&hide_border=true" 
+  <img src="https://streak-stats.demolab.com?user=EdwarSuarezQ&theme=radical&hide_border=true" 
        alt="Racha de commits" width="615" height="250"/>
 </p>
 
@@ -76,7 +76,7 @@
 
 <!-- =================== VISITAS PERFIL =================== -->
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=edwarSuarezQ&label=Profile%20views&color=0047AB&style=plastic?" 
+	<img src="https://komarev.com/ghpvc/?username=EdwarSuarezQ&label=Profile%20views&color=0047AB&style=plastic?" 
        alt="Contador de visitas" height="25px" width="160px"/> 
 </p>
 
