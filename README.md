@@ -48,13 +48,18 @@
 
 <!-- =================== ESTADÍSTICAS =================== -->
 <h3 align="center">📊 Estadísticas de mi GitHub</h3>
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwarSuarezQ&layout=compact&theme=radical&hide_border=true" 
+       alt="Lenguajes más usados" width="400"/>
+</div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=EdwarSuarezQ&show_icons=true&theme=radical&hide_border=true" 
+       alt="Estadísticas GitHub" width="400"/>
 	
-  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwarSuarezQ&layout=compact&theme=radical&hide_border=true)
-	
-  ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=EdwarSuarezQ&show_icons=true&theme=radical&hide_border=true)
-  ![Racha de commits](https://streak-stats.demolab.com?user=EdwarSuarezQ&theme=radical&hide_border=true)
-  
+  <img src="https://streak-stats.demolab.com?user=EdwarSuarezQ&theme=radical&hide_border=true" 
+       alt="Racha de commits" width="400"/>
 </div>
 
 ---
