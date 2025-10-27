@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00F7F7&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingeniera+en+Sistemas;Asitente+Tecnico+de+Software+en+proseso;Siempre+aprendiendo+nuevas+cosas">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00F7F7&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingeniería+en+Sistemas;Asistente+Técnico+de+Software+en+proceso;Siempre+aprendiendo+nuevas+cosas">
   </a>
 </p>
 
@@ -46,9 +46,21 @@
 
 ---
 
+<!-- =================== ESTADÍSTICAS =================== -->
+<h3 align="center">📊 Estadísticas de mi GitHub</h3>
+<div align="center">
+	
+  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwarSuarezQ&layout=compact&theme=radical&hide_border=true)
+	
+  ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=EdwarSuarezQ&show_icons=true&theme=radical&hide_border=true)
+  ![Racha de commits](https://streak-stats.demolab.com?user=EdwarSuarezQ&theme=radical&hide_border=true)
+  
+</div>
+
+---
 
 <!-- =================== CONTACTOS =================== -->
-<h3 align="center">📬 Contacto</h3>
+<h3 align="center">📬 Contactos</h3>
 <p align="center">
   <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Correo" width="40" height="40"/></a> 
   <a href="https://linkedin.com/in/edwar-suarez"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
@@ -56,30 +68,8 @@
 
 ---
 
-<!-- =================== ESTADÍSTICAS =================== -->
-<h3 align="center">📊 Estadísticas de mi GitHub</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EdwarSuarezQ&show_icons=true&theme=radical" 
-       alt="Estadísticas GitHub" width="400" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwarSuarezQ&layout=compact&theme=radical" 
-       alt="Lenguajes más usados" width="400" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=EdwarSuarezQ&theme=radical&hide_border=true" 
-       alt="Racha de commits" width="615" height="250"/>
-</p>
-
-
----
-
-
 <!-- =================== VISITAS PERFIL =================== -->
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=EdwarSuarezQ&label=Profile%20views&color=0047AB&style=plastic?" 
        alt="Contador de visitas" height="25px" width="160px"/> 
 </p>
-
-
-
-
