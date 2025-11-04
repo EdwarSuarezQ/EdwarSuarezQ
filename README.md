@@ -15,7 +15,6 @@
 <!-- =================== SOBRE MÍ =================== -->
 ### 🚀 Sobre mí
 - 🔭 Actualmente aprendiendo y mejorando mis habilidades en desarrollo web y de software.  
-- 🌱 Enfocado en **JavaScript**, **TypeScript**, **Angular**, **Node.js** y **MySQL**.  
 - 🎯 Mi objetivo: crecer como profesional y crear soluciones útiles e innovadoras.  
 
 ---
