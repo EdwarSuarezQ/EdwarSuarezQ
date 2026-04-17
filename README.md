@@ -6,42 +6,30 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00F7F7&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingeniería+en+Sistemas;Asistente+Técnico+de+Software+en+proceso;Siempre+aprendiendo+nuevas+cosas">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00F7F7&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingeniería+en+Sistemas;Desarrollador+Full+Stack+JR;Explorando+el+Análisis+de+Datos">
   </a>
 </p>
+
 
 ---
 
 <!-- =================== SOBRE MÍ =================== -->
 ### 🚀 Sobre mí
-- 🔭 Actualmente aprendiendo y mejorando mis habilidades en desarrollo web y de software.  
-- 🎯 Mi objetivo: crecer como profesional y crear soluciones útiles e innovadoras.  
+- 💻 **Desarrollador Full Stack JR & Estudiante de Ingeniería.**
+- 🤝 **Mi experiencia:** Me he enfrentado a arquitecturas de software corporativo real, consolidando mis bases técnicas en el **ecosistema de JavaScript**, destacando siempre mi resiliencia y el valor del trabajo en equipo.
+- 🎯 **Mi objetivo actual:** Fortalecer mi lógica de programación base y crear soluciones útiles e innovadoras.
+- 📊 **Explorando:** Con gran curiosidad intelectual, adentrándome al mundo del **Análisis de Datos** para encontrar nuevas formas de aportar valor.
+- 🌱 **Soft Skills:** Me considero una persona curiosa, perseverante y altamente adaptable.
 
 ---
 <!-- =================== LENGUAJES =================== -->
-<h3 align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">💻 Lenguajes y Herramientas</h3>
+<h3 align="center">💻 Lenguajes y Herramientas</h3>
 <p align="center">
-  <a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="50" height="50"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
-  <a href="https://react.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/></a>
-  <a href="https://nestjs.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="NestJS" width="50" height="50"/></a>
-  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>
-  <a href="https://sequelize.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="50" height="50"/></a>
-  <a href="https://www.mongodb.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/></a>
-  <a href="https://angularjs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="50" height="50"/></a>
-  <a href="https://angular.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="50" height="50"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp,python,mysql,html,css,js,react,nodejs,postgres,nestjs,ts,sequelize,mongodb,express,angular,git,github,postman,npm,firebase,aws,bootstrap,tailwind&perline=12" alt="Habilidades de Edwar" />
+  </a>
 </p>
+
 
 ---
 
@@ -66,8 +54,12 @@
 <!-- =================== CONTACTOS =================== -->
 <h3 align="center">📬 Contactos</h3>
 <p align="center">
-  <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Correo" width="40" height="40"/></a> 
-  <a href="https://linkedin.com/in/edwar-suarez"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="mailto: " target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Correo" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/edwar-suarez" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
@@ -77,3 +69,4 @@
 	<img src="https://komarev.com/ghpvc/?username=EdwarSuarezQ&label=Profile%20views&color=0047AB&style=plastic?" 
        alt="Contador de visitas" height="25px" width="160px"/> 
 </p>
+
